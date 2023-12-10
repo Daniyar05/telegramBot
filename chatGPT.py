@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = "sk-3Y3zheYSCJLkftRjL4GwT3BlbkFJlUAPvUI1V8AdXJBTqXt"
 engine="gpt-3.5-turbo-instruct" 
 
 # Модель 
